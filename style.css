@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500&display=swap');
+
+#nav{
+    font-family: 'Poppins', sans-serif;
+}
+#nav{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+body{
+	font-family: 'Poppins', sans-serif;
+}
+a{
+    text-decoration: none;
+
+}
+.logo:hover{
+	text-decoration: none;
+	color: #a855fB;
+       
+}
+
+
+
+.logo{
+    font-weight: 700;
+    font-size: 26px;
+    color: #a855fB;
+
+    
+    
+}
+.section{
+	background-color: #faf5ff;
+	height:100vh;
+	padding-top: 40px;
+	
+}
+.section-content{
+	margin-bottom: 50px;
+
+}
+.greet{
+	color:#6b7280;
+	font-weight: 500;
+}
+.name{
+	font-weight: 700;
+}
+.title{
+	font-weight: 400;
+}
+.hireme-btn{
+	background-color:#a855f7 ;
+	color: #faf5ff;
+	height:40px;
+	width:100px;
+	border-width: 0px;
+	border-style: solid;
+	border-radius: 5px;
+	font-size: 12px;
+	font-family: 'Poppins', sans-serif;
+}
+.hireme-btn:hover{
+	background-color:#9333ea ;
+}
+.portfolio-btn{
+	color:#a855f7 ;
+	background-color: #faf5ff;
+	height:40px;
+	width:100px;
+	border-width: 2px;
+	border-color:#a855f7;
+	border-style: solid;
+	border-radius: 5px;
+	font-size: 12px;
+	font-family: 'Poppins', sans-serif;
+}
+.portfolio-btn:hover{
+	background-color: #a855ff;
+	color: #faf5ff;
+}
+.image{
+	height:40vh;
+	width:40vh;
+	
+	border-radius: 100%;
+
+}
